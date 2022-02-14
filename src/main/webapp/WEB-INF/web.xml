@@ -6,7 +6,7 @@
 	
 	<!-- APPLICATION NAME -->
 
-	<display-name>Moleculer Java demo project for SpringBoot Framework</display-name>
+	<display-name>Moleculer Java demo project for xf Framework</display-name>
 
 	<listener>
 		<listener-class>services.moleculer.web.servlet.websocket.EndpointDeployer</listener-class>
